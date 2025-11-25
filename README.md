@@ -1,15 +1,15 @@
-# cs
+# nus cs notes
 
-To install dependencies:
+Notes that i took during my time in NUS comp. sci.
 
-```bash
-bun install
-```
+## Requirements
+Install [typst](https://github.com/typst/typst). Compile to pdf with `bun run build`.
 
-To run:
+## Semesters
 
-```bash
-bun run index.ts
-```
+### AY25/26 Sem 1
+- cs1101s
+- gea1000
+- is1108
+- ma1521
 
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
