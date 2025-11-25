@@ -1,0 +1,19 @@
+{
+  "name": "cs",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@types/cli-progress": "^3.11.6",
+    "cli-progress": "^3.12.0"
+  },
+  "scripts": {
+    "build": "bun run index.ts"
+  }
+}
